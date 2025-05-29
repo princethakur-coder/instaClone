@@ -68,11 +68,10 @@ const Suggestions = () => {
           <a href="#" className="mx-1">Privacy</a> •
           <a href="#" className="mx-1">Terms</a> •
           <a href="#" className="mx-1">Locations</a> •
-          <a href="#" className="mx-1">Language</a> •
-          <a href="#" className="mx-1">Meta Verified</a>
+          <a href="#" className="mx-1">Language</a>
         </div>
         <div className="text-xs text-gray-400">
-          © 2025 INSTAGRAM FROM META
+          © 2024 INSTA CLONE
         </div>
       </div>
     </div>
